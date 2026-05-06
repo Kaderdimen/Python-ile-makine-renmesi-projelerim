@@ -1,1 +1,0 @@
-{'C:\\Users\\kader\\.spyder-py3\\temp.py': 'C:\\Users\\kader\\.spyder-py3\\autosave\\temp.py'}
